@@ -1,0 +1,24 @@
+Projekt krok po kroku:
+
+
+Importowanie bibliotek
+
+Wczytanie danych z bazy "Wine"
+
+Utworzenie obiektu DataFrame
+
+Podzielenie danych na zbiór treningowy i testowy
+
+Standaryzacja danych
+
+Porównanie algorytmów
+
+Porównanie dokładności algorytmów za pomocą walidacji krzyżowej
+
+Wybór najlepszego algorytmu
+
+Sprawdzenie dokładności modelu na zbiorze testowym
+
+Wyświetlenie macierzy konfuzji
+
+Wizualizacja wyników
